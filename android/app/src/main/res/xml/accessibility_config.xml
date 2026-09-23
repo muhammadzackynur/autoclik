@@ -4,4 +4,5 @@
     android:accessibilityFeedbackType="feedbackGeneric"
     android:accessibilityFlags="flagDefault|flagIncludeNotImportantViews"
     android:canRetrieveWindowContent="true"
-    android:description="Layanan ini digunakan untuk menekan tombol skip dan ikon silang pada iklan game secara otomatis." />
+    android:canPerformGestures="true"
+    android:description="@string/accessibility_service_description" />
